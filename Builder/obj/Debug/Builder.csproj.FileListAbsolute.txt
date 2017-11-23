@@ -1,0 +1,7 @@
+C:\Users\kgnia\Documents\Visual Studio 2017\Projects\Builder\Builder\bin\Debug\Builder.exe.config
+C:\Users\kgnia\Documents\Visual Studio 2017\Projects\Builder\Builder\bin\Debug\Builder.exe
+C:\Users\kgnia\Documents\Visual Studio 2017\Projects\Builder\Builder\bin\Debug\Builder.pdb
+C:\Users\kgnia\Documents\Visual Studio 2017\Projects\Builder\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+C:\Users\kgnia\Documents\Visual Studio 2017\Projects\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\kgnia\Documents\Visual Studio 2017\Projects\Builder\Builder\obj\Debug\Builder.exe
+C:\Users\kgnia\Documents\Visual Studio 2017\Projects\Builder\Builder\obj\Debug\Builder.pdb
